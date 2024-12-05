@@ -18,6 +18,7 @@
     "idf.flashType": "UART",
     "idf.portWin": "COM9",
     "files.associations": {
-        "sdkconfig.h": "c"
+        "sdkconfig.h": "c",
+        "stdio.h": "c"
     }
 }

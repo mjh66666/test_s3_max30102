@@ -1,7 +1,10 @@
 /*
- * SPDX-FileCopyrightText: 2010-2022 Espressif Systems (Shanghai) CO LTD
- *
- * SPDX-License-Identifier: CC0-1.0
+ * @Author: mojionghao
+ * @Date: 2024-12-05 15:29:35
+ * @LastEditors: mojionghao
+ * @LastEditTime: 2024-12-05 16:42:59
+ * @FilePath: \test_s3_max30102\main\hello_world_main.c
+ * @Description:
  */
 
 #include <stdio.h>
